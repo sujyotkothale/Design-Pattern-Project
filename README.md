@@ -30,7 +30,7 @@ To run the game locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tictactoe.git
+git clone https://github.com/sujyotkothale/Design-Pattern-Project.git
 ```
 ## Running the Java Code
 
@@ -46,11 +46,11 @@ OR
    - Navigate to the project directory containing the Java source files.
    - Compile the code using `javac` command:
      ```bash
-     javac Main.java
+     javac App.java
      ```
    - Run the compiled code using `java` command:
      ```bash
-     java Main
+     java App
      ```
 3. Follow the on-screen instructions to play the game.
 
@@ -62,4 +62,19 @@ Contributions to enhance the game features, improve code quality, or fix bugs ar
 
 This project is licensed under the MIT License, allowing free use and modification of the codebase.
 
+## Screenshots
+
+<p align="center">
+   <img width="550" alt="image" src="https://github.com/sujyotkothale/Design-Pattern-Project/assets/91781621/a151cca2-b8f3-4789-ad08-7df8077526f7">
+   <br>
+   <img width="550" alt="image" src="https://github.com/sujyotkothale/Design-Pattern-Project/assets/91781621/90004f1b-848c-4d6f-862b-b41c95f340f8">
+   <br>
+   <img width="550" alt="image" src="https://github.com/sujyotkothale/Design-Pattern-Project/assets/91781621/6e01fdc3-ad0b-455f-b56c-8f73b922352a">
+   <br>
+   <img width="550" alt="image" src="https://github.com/sujyotkothale/Design-Pattern-Project/assets/91781621/a73468a7-97f3-4036-9a2a-a12caf0c3714">
+   <br>
+   <img width="550" alt="image" src="https://github.com/sujyotkothale/Design-Pattern-Project/assets/91781621/c4b4ddb0-1a56-4ff3-baad-1c967cae27f9">
+
+
+</p>
 
