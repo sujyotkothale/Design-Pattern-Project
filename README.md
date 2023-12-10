@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game Project
+# Tic-Tac-Toe Game
 
 This repository contains a Java-based Tic-Tac-Toe game implementing various design patterns to enhance its functionality and structure.
 
